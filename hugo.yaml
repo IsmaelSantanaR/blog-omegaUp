@@ -66,7 +66,7 @@ params:
 
   editURL:
     enable: false
-    base: "https://github.com/omegaup/blog/content"
+    base: "https://github.com/IsmaelSantanaR/blog-omegaUp/content"
 
 
 defaultContentLanguage: es
